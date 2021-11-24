@@ -1,4 +1,4 @@
-# Learning-Data-Science
+# Peptide - ML
 
 With this repository, I am learning to improve my python programming skills, learn some data science tricks, and really have some fun digging into a project that isn't for my research. 
 
